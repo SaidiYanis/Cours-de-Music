@@ -1,0 +1,4 @@
+Afin de root le PC sur le serveur en ligne
+
+route add -p 10.31.0.0 mask 255.255.0.0 10.187.20.10
+route add -p 172.31.0.0 mask 255.255.0.0 10.187.20.10
